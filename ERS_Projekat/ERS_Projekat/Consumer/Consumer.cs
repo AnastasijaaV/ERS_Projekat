@@ -12,17 +12,17 @@ namespace ERS_Projekat.Consumer
     {
 
         public double Consumption { get; set; }
-        //public List<Device> Devices { get; set; } = new List<Device>();
+        public List<Device> Devices { get; set; } = new List<Device>();
 
         public Consumer()
         {
             Consumption = 0;
         }
 
-        /*public void AddDevices(Device device)
+        public void AddDevices(Device device)
         {
             Devices.Add(device);
-        }*/
+        }
         public void UI(DistributiveCenter dist)
         {
             throw new NotImplementedException();

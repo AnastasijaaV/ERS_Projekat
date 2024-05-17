@@ -8,5 +8,7 @@ namespace ERS_Projekat.Consumer
 {
     public interface IDevice
     {
+        bool TurnOn();
+        bool TurnOff();
     }
 }

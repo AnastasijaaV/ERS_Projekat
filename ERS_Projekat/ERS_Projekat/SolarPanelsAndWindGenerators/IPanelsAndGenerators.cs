@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ERS_Projekat.SolarPanelsAndWindGenerators
 {
-    internal interface IPanelsAndGenerators
+    public interface IPanelsAndGenerators
     {
 
         void UpdateProduction();

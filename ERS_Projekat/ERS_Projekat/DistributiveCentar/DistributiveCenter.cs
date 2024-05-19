@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ERS_Projekat.PowerPlant;
+using ERS_Projekat.SolarPanelsAndWindGenerators;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,11 +17,9 @@ namespace ERS_Projekat.DistributionCentar
         public double SolarPower { get; set; }
         public double WindPower { get; set; }
 
-        //public SolarPanel SolarPanel { get; set; }
-      //  public WindGenerator WindGen { get; set; }
-
-      // public Hydroelectric HydroEl { get; set; } = new Hydroelectric();
-      /*  public DistributiveCenter(SolarPanel solar, WindGenerator wind)
+        public SolarPanel SolarPanel { get; set; }
+        public WindGenerator WindGen { get; set; } public Hydroelectric HydroEl { get; set; } = new Hydroelectric();
+        public DistributiveCenter(SolarPanel solar, WindGenerator wind)
         {
             this.SolarPanel = solar;
             this.WindGen = wind;
@@ -28,7 +28,7 @@ namespace ERS_Projekat.DistributionCentar
             this.AvailableEnergy = 0;
             this.RenewableEnergy = 0;
             File.WriteAllText("log_consumer.txt", "Vreme, Prijem, Cena\n");
-        }*/
+        }
   
 
 
@@ -60,9 +60,9 @@ namespace ERS_Projekat.DistributionCentar
         {
             Console.WriteLine("\n\t*****************************************************");
 
-           // Console.WriteLine($"\n\tSolarni paneli: {SolarPanel.Production}%, Vetrogeneratori: {WindGen.Production}%\n");
+            Console.WriteLine($"\n\tSolarni paneli: {SolarPanel.Production}%, Vetrogeneratori: {WindGen.Production}%\n");
 
-          //  GetRenewablePower(SolarPanel, WindGen);
+            GetRenewablePower(SolarPanel, WindGen);
 
             AdjustHydroelectricPlantProduction(consumption);
 
@@ -71,10 +71,10 @@ namespace ERS_Projekat.DistributionCentar
         }
 
         //Dobavljanje obnovljivih izvora
-        /*  public void GetRenewablePower(SolarPanel solarPanel, WindGenerator windGenerator)
+          public void GetRenewablePower(SolarPanel solarPanel, WindGenerator windGenerator)
           {
               RenewableEnergy = (SolarPanel.Production / 100) + (WindGen.Production / 100);
-          }*/
+          }
 
         public void LogConsumer(string logMessage)
         {
@@ -85,11 +85,11 @@ namespace ERS_Projekat.DistributionCentar
         public void AdjustHydroelectricPlantProduction(double demand)
         {
             int production = Convert.ToInt32(((demand - RenewableEnergy) / 15) * 100); // proizvodnja = ((potrosnja - obnovljiviIzvori) ÷ maxProizvodnja) × 100
-          //  HydroEl.UpdateProduction(production);
-           // AvailableEnergy = SolarPanel.Production * 0.05 + WindGen.Production * 0.05 + HydroEl.Production * 0.9;
-           // Console.WriteLine($"\n\tUkupna energija: {AvailableEnergy}");
-           // Console.WriteLine($"\n\tProcenat rada hidroelektrane: {HydroEl.Production}%");
-           // HydroEl.Log();
+            HydroEl.UpdateProduction(production);
+            AvailableEnergy = SolarPanel.Production * 0.05 + WindGen.Production * 0.05 + HydroEl.Production * 0.9;
+            Console.WriteLine($"\n\tUkupna energija: {AvailableEnergy}");
+            Console.WriteLine($"\n\tProcenat rada hidroelektrane: {HydroEl.Production}%");
+            HydroEl.Log();
 
         }
 

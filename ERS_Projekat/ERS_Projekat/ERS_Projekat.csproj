@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="PowerPlant\" />
     <Folder Include="SolarPanelsAndWindGenerators\" />
   </ItemGroup>
 

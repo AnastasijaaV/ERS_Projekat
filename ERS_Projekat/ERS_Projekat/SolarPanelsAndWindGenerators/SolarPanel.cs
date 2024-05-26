@@ -31,7 +31,7 @@ namespace ERS_Projekat.SolarPanelsAndWindGenerators
 
         }
 
-        public void TimerElapsed(object sender, ElapsedEventArgs e)
+        public void TimerElapsed(object? sender, ElapsedEventArgs e)
         {
             UpdateProduction(); //Azuriranje se poziva svakih  10 sekundi
         }

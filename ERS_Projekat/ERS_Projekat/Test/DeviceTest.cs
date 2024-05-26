@@ -12,7 +12,7 @@ namespace ERS_Projekat.Test
     [TestFixture]
     public class DeviceTest
     {
-        public Consumer.Device dev;
+        public Consumer.Device? dev;
         //public Consumer.Device? dev;
 
 

@@ -25,7 +25,7 @@ namespace ERS_Projekat.Consumer
         }
         public void UI(DistributiveCenter dist)
         {
-            string answer;
+            string? answer;
             do
             {
 
@@ -43,6 +43,12 @@ namespace ERS_Projekat.Consumer
                 Console.Write("Unesite redni broj uređaja za uključivanje/isključivanje: ");
                 Console.WriteLine("\n=============================================================");
                 answer = Console.ReadLine();
+
+                if (answer == null)
+                {
+                    Console.WriteLine("Unos ne sme biti 'null vrednost'. Unesite redni broj.");
+                    continue;
+                }
 
                 if (int.TryParse(answer, out int index) && index >= 1 && index <= Devices.Count)
                 {
@@ -64,7 +70,7 @@ namespace ERS_Projekat.Consumer
 
                 }
 
-            } while (!answer.ToLower().Equals("x"));
+            } while (answer != null && !answer.ToLower().Equals("x"));
         }
     }
 }

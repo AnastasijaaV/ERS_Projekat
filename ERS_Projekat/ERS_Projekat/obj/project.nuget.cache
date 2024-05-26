@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfWh8LO04c/PeAM8uedfu2wfdfTIWS/tlkIWHw5Ls/YZEeYxPp1alGVMk6cUVorTSzcwqzOIzVfh3aeGuIQk7g==",
+  "success": true,
+  "projectFilePath": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mihailo\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Mihailo\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

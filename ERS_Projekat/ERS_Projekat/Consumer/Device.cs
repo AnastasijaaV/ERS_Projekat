@@ -17,7 +17,7 @@ namespace ERS_Projekat.Consumer
         {
             this.Name = name;
             this.ConsumptionPerHour = consumption;
-            this.active = false;
+            this.active = active;
         }
         public bool TurnOff()
         {

@@ -47,7 +47,7 @@ namespace ERS_Projekat.DistributionCentar
 
                 Console.WriteLine($"Distributivni centar: Poslato {consumption} kWh. Cena: {cost}RSD\n");
 
-              //  LogConsumer($"{DateTime.Now}, {consumption} kWh, {cost}RSD");
+                LogConsumer($"{DateTime.Now}, {consumption} kWh, {cost}RSD");
                 return true;
             }
             else

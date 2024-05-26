@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERS_Projekat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a171819bfc53543a61559640c5230815d149969d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e39422ec6a663863c06406668b589b7a782f7e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERS_Projekat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERS_Projekat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

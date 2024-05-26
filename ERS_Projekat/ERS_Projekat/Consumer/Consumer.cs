@@ -40,15 +40,9 @@ namespace ERS_Projekat.Consumer
                 Console.WriteLine("Izlazak iz programa - X\n");
 
                 // Unos korisničkog izbora
-                Console.Write("Unesite redni broj uređaja za uključivanje/isključivanje: ");
+                Console.Write("Unesite redni broj uređaja za uključivanje/isključivanje ili napustite program: ");
                 Console.WriteLine("\n=============================================================");
                 answer = Console.ReadLine();
-
-                if (answer == null)
-                {
-                    Console.WriteLine("Unos ne sme biti 'null vrednost'. Unesite redni broj.");
-                    continue;
-                }
 
                 if (int.TryParse(answer, out int index) && index >= 1 && index <= Devices.Count)
                 {
@@ -68,6 +62,18 @@ namespace ERS_Projekat.Consumer
                             Consumption -= Devices[index - 1].ConsumptionPerHour;
                     }
 
+                }
+                else if (answer == null)
+                {
+                        Console.WriteLine("Unos ne sme biti 'null vrednost'. Unesite redni broj.");
+                        continue;
+                }
+                
+                else if (!answer.ToLower().Equals("x"))
+                {
+                    Console.WriteLine("\n=============================================================");
+                    Console.WriteLine("\nPogresan unos, pokusajte ponovo.");
+                    continue;
                 }
 
             } while (answer != null && !answer.ToLower().Equals("x"));

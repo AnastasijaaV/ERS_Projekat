@@ -47,7 +47,7 @@ namespace ERS_Projekat.DistributionCentar
 
                 Console.WriteLine($"Distributivni centar: Poslato {consumption} kWh. Cena: {cost}RSD\n");
 
-              //  LogConsumer($"{DateTime.Now}, {consumption} kWh, {cost}RSD");
+                LogConsumer($"{DateTime.Now}, {consumption} kWh, {cost}RSD");
                 return true;
             }
             else
@@ -84,7 +84,8 @@ namespace ERS_Projekat.DistributionCentar
         //Regulisanje rada hidroelektrane
         public void AdjustHydroelectricPlantProduction(double demand)
         {
-            int production = Convert.ToInt32(((demand - RenewableEnergy) / 15) * 100); // proizvodnja = ((potrosnja - obnovljiviIzvori) ÷ maxProizvodnja) × 100
+            // proizvodnja = ((potrosnja - obnovljiviIzvori) ÷ maxProizvodnja) × 100
+            int production = Convert.ToInt32(((demand - RenewableEnergy) / 15) * 100); 
             HydroEl.UpdateProduction(production);
             AvailableEnergy = SolarPanel.Production * 0.05 + WindGen.Production * 0.05 + HydroEl.Production * 0.9;
             Console.WriteLine($"\n\tUkupna energija: {AvailableEnergy}");

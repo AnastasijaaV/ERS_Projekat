@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\consumer\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\consumer\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\testproject1\\devicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\devicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\testproject1\\windgeneratortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\windgeneratortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +19,56 @@
       "RelativeMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\solarpaneltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\testproject1\\devicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\devicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\testproject1\\hydroelectrictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\hydroelectrictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\solarpanelsandwindgenerators\\windgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\solarpanelsandwindgenerators\\windgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\solarpanelsandwindgenerators\\solarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\solarpanelsandwindgenerators\\solarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\solarpanelsandwindgenerators\\ipanelsandgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\solarpanelsandwindgenerators\\ipanelsandgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\powerplant\\ihydroelectric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\powerplant\\ihydroelectric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\powerplant\\hydroelectric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\powerplant\\hydroelectric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\consumer\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\consumer\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\consumer\\iconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\consumer\\iconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\consumer\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\consumer\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\distributivecentar\\idistributivecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\distributivecentar\\idistributivecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\distributivecentar\\distributivecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\distributivecentar\\distributivecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4C48C8B6-3EED-4220-AB1D-1DAA64DB26B9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\consumer\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\consumer\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|d:\\mihailo\\proj\\ers_projekat\\ers_projekat\\ers_projekat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDA0A105-CECF-4FFC-95D8-46173C70DB2D}|ERS_Projekat\\ERS_Projekat.csproj|solutionrelative:ers_projekat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,39 +90,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "IPanelsAndGenerators.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\SolarPanelsAndWindGenerators\\IPanelsAndGenerators.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\SolarPanelsAndWindGenerators\\IPanelsAndGenerators.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\SolarPanelsAndWindGenerators\\IPanelsAndGenerators.cs",
+              "RelativeToolTip": "ERS_Projekat\\SolarPanelsAndWindGenerators\\IPanelsAndGenerators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:08:40.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WindGenerator.cs",
               "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\SolarPanelsAndWindGenerators\\WindGenerator.cs",
               "RelativeDocumentMoniker": "ERS_Projekat\\SolarPanelsAndWindGenerators\\WindGenerator.cs",
               "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\SolarPanelsAndWindGenerators\\WindGenerator.cs",
               "RelativeToolTip": "ERS_Projekat\\SolarPanelsAndWindGenerators\\WindGenerator.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAUwD8AAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T16:16:55.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WindGeneratorTest.cs",
-              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\WindGeneratorTest.cs",
-              "RelativeDocumentMoniker": "TestProject1\\WindGeneratorTest.cs",
-              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\WindGeneratorTest.cs",
-              "RelativeToolTip": "TestProject1\\WindGeneratorTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Program.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\Program.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Program.cs",
+              "RelativeToolTip": "ERS_Projekat\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:16:49.006Z",
+              "WhenOpened": "2024-05-26T15:58:19.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DeviceTest.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\DeviceTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\DeviceTest.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\DeviceTest.cs",
+              "RelativeToolTip": "TestProject1\\DeviceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:10:17.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HydroelectricTest.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\HydroelectricTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\HydroelectricTest.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\HydroelectricTest.cs",
+              "RelativeToolTip": "TestProject1\\HydroelectricTest.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:09:13.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SolarPanelTest.cs",
               "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\SolarPanelTest.cs",
               "RelativeDocumentMoniker": "TestProject1\\SolarPanelTest.cs",
               "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\SolarPanelTest.cs",
               "RelativeToolTip": "TestProject1\\SolarPanelTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T16:15:27.381Z",
               "EditorCaption": ""
@@ -94,67 +169,144 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DeviceTest.cs",
-              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\DeviceTest.cs",
-              "RelativeDocumentMoniker": "TestProject1\\DeviceTest.cs",
-              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\DeviceTest.cs",
-              "RelativeToolTip": "TestProject1\\DeviceTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Title": "WindGeneratorTest.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\WindGeneratorTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\WindGeneratorTest.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\WindGeneratorTest.cs",
+              "RelativeToolTip": "TestProject1\\WindGeneratorTest.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowBYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:10:17.893Z",
+              "WhenOpened": "2024-05-26T16:16:49.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HydroelectricTest.cs",
-              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\HydroelectricTest.cs",
-              "RelativeDocumentMoniker": "TestProject1\\HydroelectricTest.cs",
-              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\HydroelectricTest.cs",
-              "RelativeToolTip": "TestProject1\\HydroelectricTest.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowBgAAAAOAAAA",
+              "DocumentIndex": 0,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\Consumer.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\Consumer\\Consumer.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\Consumer.cs",
+              "RelativeToolTip": "ERS_Projekat\\Consumer\\Consumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:09:13.663Z",
+              "WhenOpened": "2024-05-26T15:52:51.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TestProject1",
+              "DocumentIndex": 7,
+              "Title": "SolarPanel.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\SolarPanelsAndWindGenerators\\SolarPanel.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\SolarPanelsAndWindGenerators\\SolarPanel.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\SolarPanelsAndWindGenerators\\SolarPanel.cs",
+              "RelativeToolTip": "ERS_Projekat\\SolarPanelsAndWindGenerators\\SolarPanel.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:08:42.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHydroelectric.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\PowerPlant\\IHydroelectric.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\PowerPlant\\IHydroelectric.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\PowerPlant\\IHydroelectric.cs",
+              "RelativeToolTip": "ERS_Projekat\\PowerPlant\\IHydroelectric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:08:38.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hydroelectric.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\PowerPlant\\Hydroelectric.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\PowerPlant\\Hydroelectric.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\PowerPlant\\Hydroelectric.cs",
+              "RelativeToolTip": "ERS_Projekat\\PowerPlant\\Hydroelectric.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:08:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IConsumer.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\IConsumer.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\Consumer\\IConsumer.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\IConsumer.cs",
+              "RelativeToolTip": "ERS_Projekat\\Consumer\\IConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:07:34.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\IDevice.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\Consumer\\IDevice.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\IDevice.cs",
+              "RelativeToolTip": "ERS_Projekat\\Consumer\\IDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:07:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDistributiveCenter.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\DistributiveCentar\\IDistributiveCenter.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\DistributiveCentar\\IDistributiveCenter.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\DistributiveCentar\\IDistributiveCenter.cs",
+              "RelativeToolTip": "ERS_Projekat\\DistributiveCentar\\IDistributiveCenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:08:22.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DistributiveCenter.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\DistributiveCentar\\DistributiveCenter.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\DistributiveCentar\\DistributiveCenter.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\DistributiveCentar\\DistributiveCenter.cs",
+              "RelativeToolTip": "ERS_Projekat\\DistributiveCentar\\DistributiveCenter.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAkwGEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:07:37.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\Device.cs",
+              "RelativeDocumentMoniker": "ERS_Projekat\\Consumer\\Device.cs",
+              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\Device.cs",
+              "RelativeToolTip": "ERS_Projekat\\Consumer\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:07:26.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestProject1.csproj",
               "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\TestProject1.csproj",
               "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
               "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\TestProject1\\TestProject1.csproj",
               "RelativeToolTip": "TestProject1\\TestProject1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-26T15:59:47.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Program.cs",
-              "RelativeDocumentMoniker": "ERS_Projekat\\Program.cs",
-              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Program.cs",
-              "RelativeToolTip": "ERS_Projekat\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T15:58:19.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Consumer.cs",
-              "DocumentMoniker": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\Consumer.cs",
-              "RelativeDocumentMoniker": "ERS_Projekat\\Consumer\\Consumer.cs",
-              "ToolTip": "D:\\Mihailo\\Proj\\ERS_Projekat\\ERS_Projekat\\ERS_Projekat\\Consumer\\Consumer.cs",
-              "RelativeToolTip": "ERS_Projekat\\Consumer\\Consumer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T15:52:51.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T15:59:47.451Z"
             }
           ]
         }

@@ -12,7 +12,6 @@ namespace TestProject1
     [TestFixture]
     public class HydroelectricTest
     {
-        // public PowerPlant.Hydroelectric hydroelectric;
         public ERS_Projekat.PowerPlant.Hydroelectric? hydroelectric;
 
 

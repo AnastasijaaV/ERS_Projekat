@@ -11,7 +11,6 @@ namespace TestProject1
     [TestFixture]
     public class SolarPanelTest
     {
-        // public SolarPanelsAndWindGenerators.SolarPanel solarPanel;
         public ERS_Projekat.SolarPanelsAndWindGenerators.SolarPanel? solarPanel;
 
 

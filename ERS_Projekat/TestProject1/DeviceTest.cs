@@ -13,26 +13,25 @@ namespace TestProject1
     public class DeviceTest
     {
         public ERS_Projekat.Consumer.Device? dev;
-        //public Consumer.Device? dev;
 
 
         [Test]
         public void IsTurnedOn()
         {
             dev = new Device("Televizor", 4);
-            //dev = new Device("Televizor", 4) ?? throw new Exception("Device initialization failed.");
 
             dev.TurnOn();
 
-            Assert.Equals(dev.active, true);
+            Assert.That(dev.active, Is.True);
         }
 
+        [Test]
         public void IsTurnedOff()
         {
             dev = new Device("Grejalica", 1);
             dev.TurnOff();
 
-            Assert.Equals(dev.active, false);
+            Assert.That(dev.active, Is.False);
         }
 
         [TearDown]

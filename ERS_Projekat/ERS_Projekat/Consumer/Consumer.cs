@@ -25,7 +25,46 @@ namespace ERS_Projekat.Consumer
         }
         public void UI(DistributiveCenter dist)
         {
-            throw new NotImplementedException();
+            string answer;
+            do
+            {
+
+                Console.WriteLine("\n=============================================================");
+                Console.WriteLine("Uredjaji:");
+
+                // Prikaz dostupnih uređaja
+                for (int i = 0; i < Devices.Count; i++)
+                {
+                    Console.WriteLine($"{i + 1}. {Devices[i].Name} (ON/OFF)");
+                }
+                Console.WriteLine("Izlazak iz programa - X\n");
+
+                // Unos korisničkog izbora
+                Console.Write("Unesite redni broj uređaja za uključivanje/isključivanje: ");
+                Console.WriteLine("\n=============================================================");
+                answer = Console.ReadLine();
+
+                if (int.TryParse(answer, out int index) && index >= 1 && index <= Devices.Count)
+                {
+                    if (Devices[index - 1].active == true)
+                    {
+                        Devices[index - 1].TurnOff();
+
+                        Consumption -= Devices[index - 1].ConsumptionPerHour;
+                        dist.PrintDistributionStats(Consumption);
+                    }
+                    else
+                    {
+                        Consumption += Devices[index - 1].ConsumptionPerHour;
+                        if (dist.ReceivePowerDemand(Consumption))
+                            Devices[index - 1].TurnOn();
+                        else
+                            Consumption -= Devices[index - 1].ConsumptionPerHour;
+                    }
+
+                }
+
+            } while (!answer.ToLower().Equals("x"));
         }
     }
 }
